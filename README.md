@@ -1,6 +1,4 @@
 
----
-
 # **🎙️ Jarvis - Personalized AI Assistant**  
 
 Welcome to **Jarvis**, an AI-powered **voice and vision-based assistant** that enhances automation with intelligent features! 🚀🤖  
