@@ -1,10 +1,22 @@
 # **🤖 Jarvis - Personalized AI Assistant**  
 🚀 **AI-powered Voice & Vision Assistant** | **Smart Automation** | **React + Python**  
 
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-Enabled-FF9800?style=for-the-badge&logo=googleassistant&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Express%20Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github)
 ---
 
-## 📌 **About**  
-Jarvis is an **intelligent AI assistant** that enhances productivity by integrating **voice commands, facial recognition, and automation** into a seamless experience. Whether you need to **open applications, browse the web, or interact with AI**, Jarvis simplifies tasks with a **natural and interactive interface**.  
+## 📌 **About**
+
+- Jarvis is an **intelligent AI assistant** designed to enhance productivity.  
+- It integrates **voice commands**, **facial recognition**, and **automation** into one seamless experience.  
+- You can **open applications, browse the web, and interact with AI** effortlessly.  
+- Jarvis provides a **natural, interactive interface** for smooth and efficient task execution.
+
 
 ---
 
@@ -65,8 +77,22 @@ python run.py  # Start the backend
 
 ---
 
-## ⭐ **Support & Contributions**  
-If you find this project useful, **give it a star ⭐ on GitHub**!  
-Want to improve Jarvis? **Fork the repo and submit a PR!**  
+## ⭐ **Support & Contributions**
 
+💡 Have ideas or improvements in mind?  
+Fork the repository, create a feature branch, and submit a **PR!**  
+Your contributions are welcome and appreciated. 🤝  
+
+For updates and enhancements, consider starring the project to stay connected.  
 🚀 **Happy Coding!** 🎙️✨
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+> Built with ❤️ by [@dj-ayush](https://github.com/dj-ayush)
+
